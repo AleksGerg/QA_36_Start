@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="StartWeb" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-12-15T17:40:41" hostname="DESKTOP-K03K98Q" time="8.401">
+  <properties/>
+  <testcase name="startTrella" classname="StartWeb" time="8.401"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 108.0.5359.71 (1e0e3868ee06e91ad636a874420e3ca3ae3756ac-refs/branch-heads/5359@{#1016}) on port 57920
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Dec 15, 2022 7:40:44 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected upstream dialect: W3C
+Dec 15, 2022 7:40:44 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 108, so returning the closest version found: 104
+Dec 15, 2022 7:40:44 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+INFO: Found CDP implementation for version 108 of 104
+[1671126049.422][SEVERE]: Unable to receive message from renderer
+]]></system-err>
+</testsuite>
